@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@leather.io/rpc": "2.1.21",
-    "@vitest/coverage-v8": "2.1.9",
+    "@vitest/coverage-v8": "3.2.4",
     "@wallet-standard/features": "1.0.3",
     "@walletconnect/types": "2.21.7",
     "vitest": "2.1.9"
