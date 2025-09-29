@@ -151,7 +151,7 @@
     "next-auth": "5.0.0-beta.29",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "react-icons": "4.12.0",
+    "react-icons": "5.5.0",
     "rpc-websockets": "7.11.0",
     "valtio": "2.1.7",
     "viem": "2.37.2",
